@@ -26,4 +26,3 @@ virt-host-validate
 8. Tipos de redes de KVM
 9. Crear una interfaz en modo puente
 10. Agregar una nueva red en KVM
-11.
