@@ -57,7 +57,7 @@ sudo virt-install \
 
 ```
 
-6. Instalacion de alpine
+6. Instalacion de alpine como tambien el de debian
 7. Componenetes de una maquina virtual en KVM
 8. Tipos de redes de KVM
 9. Crear una interfaz en modo puente
